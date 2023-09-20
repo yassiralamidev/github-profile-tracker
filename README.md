@@ -45,7 +45,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 4. Go to the `.env` file in the root directory of your project and add your GitHub Personal Access Token:
 
    ```env
-   REACT_APP_GITHUB_API_TOKEN=your_access_token_here
+   VITE_GITHUB_TOKEN==your_access_token_here
    ```
 
 5. Start the development server:
