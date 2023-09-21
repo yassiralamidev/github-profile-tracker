@@ -5,6 +5,8 @@ GitHub Profile Tracker is a web application that helps you retrieve and display 
 ## 👀 Demo
 
 [Link to Live Demo](https://github-profile-tracker.netlify.app/)
+![Screenshot](screenshot.png)
+*Caption: This is a screenshot of my project.*
 
 ## ⭐ Features
 
