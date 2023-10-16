@@ -2,6 +2,7 @@
 
 GitHub Profile Tracker is a web application that helps you retrieve and display information about GitHub users quickly and conveniently. Simply enter a GitHub username, and the app will fetch and present the user's profile details along with their repositories in a user-friendly interface.
 
+
 ## 👀 Demo
 
 [Link to Live Demo](https://github-profile-tracker.netlify.app/)
